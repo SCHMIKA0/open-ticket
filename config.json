@@ -1,7 +1,7 @@
 {
     "main_color":"#ffffff",
-    "server_id":"server id (for slash cmds)",
-    "auth_token":"auth token",
+    "server_id":"1047586634884993024",
+    "auth_token":"MTA3MTYwMTQ0MDg0NzU3NzE5MA.G8QghR.ArhysQZyrYg1f1R8jU3UFv7vW0AhRLMabPzux0",
     "main_adminroles":["discord role id"],
     "prefix":"!ticket ",
     "languagefile":"english",
